@@ -1,0 +1,59 @@
+{
+  "categories": [
+    { "id": 1, "name": "Electronics" },
+    { "id": 2, "name": "Books" },
+    { "id": 3, "name": "Clothing" },
+    { "id": 4, "name": "Home Goods" }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Noise-Cancelling Headphones",
+      "description": "Immerse yourself in music with these high-fidelity wireless headphones. Features active noise-cancellation and a 30-hour battery life.",
+      "price": 199.99,
+      "imageUrl": "https://placehold.co/600x400/5E5E5E/white?text=Headphones",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Smartwatch Series 8",
+      "description": "Stay connected and track your fitness with this sleek smartwatch. Features a bright OLED display and advanced health sensors.",
+      "price": 349.00,
+      "imageUrl": "https://placehold.co/600x400/5E5E5E/white?text=Smartwatch",
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "The Midnight Library",
+      "description": "A novel by Matt Haig. Between life and death there is a library, and within that library, the shelves go on forever. Every book provides a chance to try another life you could have lived.",
+      "price": 15.99,
+      "imageUrl": "https://placehold.co/600x400/5E5E5E/white?text=Book+Cover",
+      "categoryId": 2
+    },
+    {
+      "id": 4,
+      "name": "Classic Cotton T-Shirt",
+      "description": "A comfortable and durable t-shirt made from 100% premium cotton. Perfect for everyday wear.",
+      "price": 25.00,
+      "imageUrl": "https://placehold.co/600x400/5E5E5E/white?text=T-Shirt",
+      "categoryId": 3
+    },
+    {
+      "id": 5,
+      "name": "Modern Ceramic Vase",
+      "description": "A beautifully crafted ceramic vase to add a touch of elegance to your home decor. Ideal for flowers or as a standalone piece.",
+      "price": 45.50,
+      "imageUrl": "https://placehold.co/600x400/5E5E5E/white?text=Vase",
+      "categoryId": 4
+    },
+    {
+      "id": 6,
+      "name": "The Psychology of Money",
+      "description": "Timeless lessons on wealth, greed, and happiness by Morgan Housel. A must-read for anyone interested in personal finance.",
+      "price": 22.00,
+      "imageUrl": "https://placehold.co/600x400/5E5E5E/white?text=Book+Cover",
+      "categoryId": 2
+    }
+  ],
+  "orders": []
+}
