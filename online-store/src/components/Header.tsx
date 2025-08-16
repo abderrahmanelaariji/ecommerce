@@ -4,11 +4,9 @@ import Link from "next/link";
 import { ShoppingCart } from "lucide-react";
 import { useCartUI } from "@/context/CartUIContext";
 import { useCart } from "@/context/CartContext";
-import { useCart } from "@/context/CartContext";
 
 const Header = () => {
   const { toggleCart } = useCartUI();
-  const { itemCount } = useCart();
   const { itemCount } = useCart();
 
   return (
